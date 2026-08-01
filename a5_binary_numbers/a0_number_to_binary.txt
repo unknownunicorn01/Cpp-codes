@@ -13,4 +13,6 @@ example:
                                 //()2 represent base 2 which is for binary
 
       //When number is completely divisible by 2 than you will write 0 in from otherwise 1 till 0 come at the end, nothing will 
-      // be written in from of 0
+      // be written in from of 0.
+
+
