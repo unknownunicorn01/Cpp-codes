@@ -1,1 +1,16 @@
+// to convert a number to binary you need first to calculate LCM of the number
+example:
 
+      a) 14
+
+        2 | 14    -> 0    ^        \\to get binary we need to take number from bottom to top
+        2 |  7    -> 1    |
+        2 |  3    -> 1    |
+        2 |  1    -> 1    |
+          |  0        
+
+          (14)10  =  (1110)2    //()10 represent base 10 which is for decimal
+                                //()2 represent base 2 which is for binary
+
+      //When number is completely divisible by 2 than you will write 0 in from otherwise 1 till 0 come at the end, nothing will 
+      // be written in from of 0
