@@ -1,1 +1,4 @@
+Vectors are dynamic array, on which we can perform operations dynamically
 
+//Syntex
+vector<Data_type> Vector_variable_name = {1,2,3,4,5}
